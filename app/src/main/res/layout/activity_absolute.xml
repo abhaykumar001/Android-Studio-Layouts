@@ -1,0 +1,25 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:ignore="Deprecated">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/absolute_layout_example"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_x="100dp"
+        android:layout_y="100dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/click_meee"
+        android:layout_x="150dp"
+        android:layout_y="200dp"/>
+
+</AbsoluteLayout>

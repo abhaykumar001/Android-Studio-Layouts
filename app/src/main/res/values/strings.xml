@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="linear_layout_example">Linear Layout Example</string>
+    <string name="click_me">Click Me</string>
+    <string name="relative_layout_example">Relative Layout Example</string>
+    <string name="click_mee">Click Mee</string>
+    <string name="absolute_layout_example">Absolute Layout Example</string>
+    <string name="click_meee">Click Meee</string>
+    <string name="todo">TODO</string>
+    <string name="checkout">Checkout</string>
+    <string name="e_commerce_app">E-Commerce App</string>
+</resources>
